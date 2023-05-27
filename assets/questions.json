@@ -1,0 +1,101 @@
+{"questions": [
+	{
+		"id": 1,
+		"question": "What is the capital of France?",
+		"answer": "b",
+		"options": [
+			"a) London",
+            "b) Paris",
+            "c) Rome"
+		]
+	},
+    {
+		"id": 2,
+		"question": "Who painted the Mona Lisa?",
+		"answer": "c",
+		"options": [
+			"a) Vincent van Gogh",
+            "b) Pablo Picasso",
+            "c) Leonardo da Vinci"
+		]
+	},
+    {
+		"id": 3,
+		"question": "What is the largest planet in our solar system? ",
+		"answer": "b",
+		"options": [
+			"a) Mars",
+            "b) Jupiter",
+            "c) Saturn"
+		]
+	},
+    {   "id": 4,
+        "question": "What is the tallest mountain in the world?",
+        "answer": "b",
+        "options": [
+            "a) Mount Kilimanjaro",
+            "b) Mount Everest",
+            "c) Mount Fuji"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Which country is known for inventing pizza?",
+        "answer": "a",
+        "options": [
+            "a) Italy",
+            "b) Spain",
+            "c) Greece"
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Who wrote the famous play Romeo and Juliet?",
+        "answer": "a",
+        "options": [
+            "a) William Shakespeare",
+            "b) Jane Austen",
+            "c) Charles Dickens"
+        ]
+    },
+    {
+        "id": 7,
+        "question": "What is the national animal of Australia?",
+        "answer": "a",
+        "options": [
+            "a) Kangaroo",
+            "b) Koala",
+            "c) Emu"
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Which planet is known as the 'Red Planet'?",
+        "answer": "c",
+        "options": [
+            "a) Mercury",
+            "b) Venus",
+            "c) Mars"
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Who is the author of the Harry Potter book series?",
+        "answer": "b",
+        "options": [
+            "a) J.R.R. Tolkien",
+            "b) J.K. Rowling",
+            "c) George R.R. Martin"
+        ]
+    },
+    {
+        "id": 10,
+        "question": "What is the largest ocean on Earth?",
+        "answer": "c",
+        "options": [
+            "a) Atlantic Ocean",
+            "b) Indian Ocean",
+            "c) Pacific Ocean"
+        ]
+    }
+]}
