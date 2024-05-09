@@ -52,33 +52,6 @@ export default function HomeView() {
     );
   }
     
-    /*<View style= {Style.container}> 
-        
-        <View style = {styles.header}>
-            <View style = {[styles.innerCircle]}>
-                <LottieView
-                    autoPlay
-                    style={styles.animation}
-                    source={require('../assets/animations/homeAnimation.json')}
-                />
-            </View>    
-        </View>
-        <View style={styles.contentContainer}>
-            <Text style={styles.title}>Quizzy Minds</Text>
-            <Text style={styles.paragraph}>Are you ready to prove your trivia prowess? Start the quiz and let the quest for knowledge begin?</Text>
-            <TouchableOpacity 
-                style={[Style.bigButton, styles.bigButton]}
-                onPress={
-                    () => {navigation.navigate("Questions")}
-                }
-            >
-                <Text style={Style.bigButtonText}>Star Quiz</Text>
-            </TouchableOpacity>
-        </View>
-        
-        
-    </View>*/
-    
   const styles = StyleSheet.create({
     container: {
       height: '100%',

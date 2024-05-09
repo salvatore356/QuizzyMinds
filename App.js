@@ -10,6 +10,7 @@ import HomeView from './views/HomeView';
 import QuestionsView from './views/QuestionView';
 import ScoreView from './views/ScoreView';
 
+import 'react-native-reanimated';
 
 const Stack = createNativeStackNavigator();
 SplashScreen.preventAutoHideAsync();
