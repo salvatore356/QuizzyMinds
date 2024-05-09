@@ -39,6 +39,7 @@ export default function ScoreView(props) {
                     autoPlay
                     loop={false}
                     ref = {lottie}
+                    height={200}
                     source={require('../assets/animations/scoreAnimation.json')}
                 />
                 <Text style={localStyle.yourScore}>Your Score</Text>
