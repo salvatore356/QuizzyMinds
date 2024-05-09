@@ -24,7 +24,7 @@ export default function QuestionComponent(props) {
         let indexCorrect = getIndexCorrect();
         if (optionSelected == -1) return ""
         else if (optionSelected == i && i != indexCorrect) return "close-circle"
-        else if (i == indexCorrect) return "md-checkmark-circle"
+        else if (i == indexCorrect) return "checkmark-circle"
         else return ""  
     }
 
