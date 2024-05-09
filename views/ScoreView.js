@@ -18,7 +18,7 @@ export default function ScoreView(props) {
 
     useEffect(() => {
         setScoreValues(props.route.params)
-    })
+    }, [])
 
     const achievementMessage = () =>{
         let score = (scoreValues.correct / (scoreValues.correct + scoreValues.incorrect));

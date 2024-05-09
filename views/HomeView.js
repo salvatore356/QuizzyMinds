@@ -19,7 +19,7 @@ export default function HomeView() {
         <View style= {Style.container}>
             { /* Header */ }
             <View style = {styles.header}>
-                <View style = {[styles.innerCircle]}>
+                <View style = {styles.innerCircle}>
                     <LottieView
                         autoPlay
                         style={styles.animation}

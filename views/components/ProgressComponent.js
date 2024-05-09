@@ -18,7 +18,7 @@ export default function ProgressComponent(props) {
             if (scrollRef.current != null)
                 scrollRef.current.scrollTo({x: (props.currentQuestion * 55 + 27.5) })
         }, 200)
-    }, [props.questions])
+    }, [props.questions, props.currentQuestion])
 
     const styleByUserAnswer = (index) => {
         

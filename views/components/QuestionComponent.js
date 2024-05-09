@@ -62,7 +62,7 @@ export default function QuestionComponent(props) {
     }
 
     return (
-        <View style= {[localStyle.bg]}>
+        <View style= {localStyle.bg}>
             <Text style={localStyle.questionText}>
                 {props.question}
             </Text>
